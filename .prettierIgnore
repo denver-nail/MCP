@@ -1,0 +1,5 @@
+# 忽略所有EJS文件
+*.ejs
+
+# 或只忽略特定目录的EJS文件
+learn-project/mcp-vulnerability-checker/src/render/template/*.ejs
